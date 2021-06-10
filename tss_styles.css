@@ -59,6 +59,18 @@ article.syllabus h1, article.syllabus h2 {
     background-color: rgb(255, 185, 255);
 }
 
+article.syllabus ol {
+    list-style-type: upper-roman;
+}
+
+article.syllabus ol ol {
+    list-style-type: upper-alpha;
+}
+
+article.syllabus ol ol ol {
+    list-style-type: decimal;
+}
+
 aside {
     font-size: 0.8em;
 }
