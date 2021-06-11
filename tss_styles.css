@@ -46,6 +46,10 @@ nav > ul {
     padding-left: 5px;
 }
 
+nav > ul > li.newgroup {
+    margin-top: 20px;
+}
+
 article#about_tss h1 {
     color: white;
     background-color: rgb(222, 128, 60);
